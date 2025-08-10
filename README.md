@@ -1,8 +1,8 @@
 ## <h2>NeetCode Course</h2>
 
-<p><strong>1 - Introduction</strong></p><br>
-<p><strong>2 - Variables</strong></p><br>
-<p><strong>3 - Math</strong></p><br>
+**1 - Introduction**<br>
+**2 - Variables**<br>
+**3 - Math**<br>
 
 Camel Case - myVarName
 Snake Case - my_var_name
